@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hematunes - hemanthravi's Written Songs</title>
+    <meta name="description" content="Discover original written songs by hemanthravi. hematunes working under K.EHBM.">
+    <!-- Modern Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="icon" href="logo.png" type="image/png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="background-animation"></div>
+
+    <header class="hero">
+        <div class="header-content">
+            <div class="logo-wrapper">
+                <img src="logo.png" alt="HemaTunes Logo" class="main-logo-img">
+                <h1 class="logo glow-text">HemaTunes</h1>
+            </div>
+            <p class="subtitle">A creative space under <strong>K.EHBM</strong></p>
+            <div class="artist-badge">
+                <span class="artist-label">Words & Music by</span>
+                <h2 class="artist-name">Hemanthravi</h2>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="songs-section">
+            <h3 class="section-title">My Written Songs</h3>
+            <div id="songs-grid" class="grid">
+                <!-- Song cards will be injected here via JavaScript -->
+                <div class="loader">Loading songs...</div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; <span id="year"></span> hematunes &bull; K.EHBM. All rights reserved.</p>
+        <p class="footer-subtext">Artist: hemanthravi</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,87 @@
+{
+  "artist": "hemanthravi",
+  "company": "hematunes",
+  "parentCompany": "K.EHBM",
+  "songs": [
+  {
+    "id": 1,
+    "title": "ఈశ్వరి... ఓ... ఈశ్వరి...",
+    "date": "2026-03-16",
+    "genre": "Telugu / Melody",
+    "audioFile": "audio/ఈశ్వరి... ఓ... ఈశ్వరి....mp3",
+    "description": "A beautiful and emotional Telugu song dedicated to a mother named Eeshwari."
+  },
+  {
+    "id": 2,
+    "title": "అమ్మ సాంగ్",
+    "date": "2026-03-16",
+    "genre": "Telugu / Sentiment",
+    "audioFile": "audio/అమ్మ సాంగ్ .mp3",
+    "description": "A heartwarming Telugu melody dedicated to a mother."
+  },
+  {
+    "id": 3,
+    "title": "Mother's Day Song",
+    "date": "2026-03-16",
+    "genre": "Pop / Sentiment",
+    "audioFile": "audio/mothersdaysongenlish2.mp3",
+    "description": "A touching English pop song celebrating a mother's enduring love and guidance."
+  },
+  {
+    "id": 4,
+    "title": "మోక్షత పుట్టినరోజు (Mokshatha's Birthday)",
+    "date": "2026-03-16",
+    "genre": "Telugu / Celebration",
+    "audioFile": "audio/fe1463ce-823e-446d-bbb3-6de13d689384-mp3.mp3",
+    "description": "A joyful Telugu birthday song dedicated to the little one, Mokshatha."
+  },
+  {
+    "id": 5,
+    "title": "మోక్షత పుట్టినరోజు (Mokshatha's Birthday - Version 2)",
+    "date": "2026-03-16",
+    "genre": "Telugu / Celebration",
+    "audioFile": "audio/38d388a9-0c23-4398-8fef-a1b766bcae44-mp3.mp3",
+    "description": "An upbeat alternate version of the Telugu birthday track celebrating Mokshatha's special day."
+  },
+  {
+    "id": 6,
+    "title": "Mother's Day Song - Track 4",
+    "date": "2026-03-16",
+    "genre": "Telugu / Sentiment",
+    "audioFile": "audio/mothersday-song-wriitten-by-heamanthravi-song-4.mp3",
+    "description": "A heartfelt Telugu Mother's Day song celebrating a mother's incomparable love, written by Hemanth Ravi."
+  },
+  {
+    "id": 7,
+    "title": "Mother's Day Song",
+    "date": "2026-03-16",
+    "genre": "Telugu / Sentiment",
+    "audioFile": "audio/mothersday-song-written-by-hemanthravi.mp3",
+    "description": "A beautiful Telugu tribute dedicated to the joy and blessings of a mother, written by Hemanth Ravi."
+  },
+  {
+    "id": 8,
+    "title": "Happy Birthday Bhargavi Akka",
+    "date": "2026-03-16",
+    "genre": "Telugu / Celebration",
+    "audioFile": "audio/speaclafurhh.mp3",
+    "description": "A joyous Telugu birthday song filled with blessings and wishes for Bhargavi Akka."
+  },
+  {
+    "id": 9,
+    "title": "Happy Birthday Bhargavi Akka (Male Vocals)",
+    "date": "2026-03-16",
+    "genre": "Telugu / Celebration",
+    "audioFile": "audio/male.mp3",
+    "description": "A warm male vocal rendition of the birthday track dedicated to Bhargavi Akka."
+  },
+  {
+    "id": 10,
+    "title": "Happy Birthday Bhargavi Akka (Alternate Version)",
+    "date": "2026-03-16",
+    "genre": "Telugu / Celebration",
+    "audioFile": "audio/male2.mp3",
+    "description": "An alternate upbeat male vocal version of the celebratory birthday song for Bhargavi Akka."
+  }
+]
+}
